@@ -1,0 +1,9 @@
+body{
+    background-image: url("../images/hado.jpg");
+    background-size: cover;
+}
+.intro{
+    font-family: fantasy;
+    font-size: medium;
+    color: royalblue;
+}
